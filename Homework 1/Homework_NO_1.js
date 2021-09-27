@@ -15,7 +15,7 @@ console.log(b);
 
 // 4. Create an object with 5 types
 
-var dif_type_object = {
+let dif_type_object = {
     varNumber: 25.5,
     varString: "Nataliia",
     varBoolean: true,
@@ -35,7 +35,7 @@ let myName;
 let mySurname;
 let myGroup;
 let myYearOfBirth;
-myName = "Nataliia"
+myName = "Nataliia";
 mySurname = "Ohullo";
 myGroup = "JavaScript for TA 2021";
 myYearOfBirth = 1900;
